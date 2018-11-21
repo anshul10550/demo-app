@@ -1,0 +1,33 @@
+#btn_prev{
+	cursor: not-allowed;
+}
+
+#btn_last{
+	cursor: not-allowed;
+}
+
+
+select {
+	margin-bottom: 10px;
+	margin-left:10px;
+}
+
+.drop_down{
+  margin-left: 900px;
+	display:inline-block;
+	float:none;
+	line-height:45px;
+	position:static;
+	z-index:auto;
+}
+
+.prev_disabled:hover{
+  position: relative;
+	display: block;
+	padding: .5rem .75rem;
+	margin-left: -1px;
+	line-height: 1.25;
+	color: #007bff;
+	background-color: #fff;
+	border: 1px solid #dee2e6;
+}

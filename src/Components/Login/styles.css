@@ -1,0 +1,45 @@
+
+.btn_margin {
+	margin-left: 40px;
+}
+
+.login{
+	background-color: #d0e1e1;
+	margin:1140px;
+
+}
+
+.sign_in{
+	margin: auto;
+    width: 50%;
+    border: 3px solid #000000;
+    padding: 10px;
+}
+
+.margin_heading{
+   margin-top: 20px;
+   background-color: #e6faff;
+}
+
+.input1{
+	margin-left: 35px;
+	width:250px;
+}
+
+.input2{ 
+  	margin-left:35px;
+  	width:250px;
+ }
+
+.btn1{
+	margin-left: 85px;
+	background-color: #0099ff;
+}
+
+h2{
+	color:#0099ff;
+	margin-bottom: 25px;
+}
+
+
+

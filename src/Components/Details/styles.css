@@ -1,0 +1,14 @@
+.margin_heading{
+   margin-top: 20px;
+}
+
+input{
+	width:100px;
+}
+
+.btnClick{
+   margin-top:20px;
+   width:80px;
+   background-color: #0099ff;
+}
+
