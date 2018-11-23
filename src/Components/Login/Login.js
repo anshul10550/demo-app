@@ -5,13 +5,13 @@ import { connect } from 'react-redux';
 import { Link , Redirect } from 'react-router-dom';
 import './styles.css'
 
-
 class Login extends Component {
 	constructor(props) {
   super(props);
     this.state = {
     	login: {}
     }
+    //this.signIn = this.signIn.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
     this.handleChange = this.handleChange.bind(this);
   };

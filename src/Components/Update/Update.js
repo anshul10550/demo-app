@@ -8,8 +8,6 @@ import Modal from 'react-responsive-modal';
 import './updatestyle.css';
 
 
-
-
 class Update extends Component {
 	constructor(props) {
   super(props);
