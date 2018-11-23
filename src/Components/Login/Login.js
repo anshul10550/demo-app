@@ -12,7 +12,6 @@ class Login extends Component {
     this.state = {
     	login: {}
     }
-    //this.signIn = this.signIn.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
     this.handleChange = this.handleChange.bind(this);
   };
