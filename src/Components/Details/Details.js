@@ -16,16 +16,12 @@ class Details extends Component {
   this.state = {
     open: false,
     detail: {}
+    
   };
 
    this.handleChange = this.handleChange.bind(this);
    this.show = this.show.bind(this);
-   //this.close = this.close.bind(this);
-   // this.handleShow = this.handleShow.bind(this);
-   // // this.handleClose = this.handleClose.bind(this); 
-   // this.handleHide = this.handleHide.bind(this);
-  //this.onOpenModal = this.onOpenModal.bind(this);
-  this.onCloseModal = this.onCloseModal.bind(this);
+   this.onCloseModal = this.onCloseModal.bind(this);
 
   };
 
